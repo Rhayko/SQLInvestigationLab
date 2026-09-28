@@ -1,8 +1,0 @@
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-.DS_Store
-*.egg-info/
-data/investigation.db
-PROJECT_GUIDE.md
