@@ -1,0 +1,241 @@
+customer_id,segment,home_region
+1,Small Business,East
+2,Enterprise,South
+3,Small Business,Central
+4,Enterprise,East
+5,Mid-Market,South
+6,Small Business,Central
+7,Mid-Market,North
+8,Small Business,East
+9,Small Business,South
+10,Mid-Market,South
+11,Small Business,East
+12,Enterprise,North
+13,Mid-Market,North
+14,Enterprise,South
+15,Enterprise,South
+16,Enterprise,Central
+17,Enterprise,North
+18,Small Business,Central
+19,Mid-Market,North
+20,Small Business,North
+21,Mid-Market,South
+22,Mid-Market,South
+23,Small Business,South
+24,Mid-Market,Central
+25,Enterprise,South
+26,Enterprise,North
+27,Enterprise,Central
+28,Enterprise,Central
+29,Small Business,East
+30,Mid-Market,South
+31,Enterprise,Central
+32,Enterprise,South
+33,Small Business,Central
+34,Small Business,South
+35,Mid-Market,South
+36,Small Business,Central
+37,Enterprise,South
+38,Small Business,East
+39,Mid-Market,East
+40,Small Business,South
+41,Small Business,Central
+42,Enterprise,South
+43,Enterprise,East
+44,Enterprise,East
+45,Mid-Market,Central
+46,Small Business,East
+47,Small Business,North
+48,Small Business,Central
+49,Enterprise,Central
+50,Enterprise,East
+51,Enterprise,North
+52,Mid-Market,East
+53,Enterprise,East
+54,Enterprise,South
+55,Enterprise,North
+56,Enterprise,North
+57,Enterprise,South
+58,Enterprise,South
+59,Small Business,South
+60,Mid-Market,Central
+61,Mid-Market,North
+62,Enterprise,South
+63,Enterprise,Central
+64,Enterprise,North
+65,Enterprise,South
+66,Enterprise,Central
+67,Small Business,South
+68,Small Business,North
+69,Enterprise,South
+70,Mid-Market,North
+71,Small Business,South
+72,Mid-Market,Central
+73,Small Business,Central
+74,Enterprise,North
+75,Small Business,East
+76,Small Business,Central
+77,Small Business,East
+78,Enterprise,Central
+79,Mid-Market,East
+80,Small Business,Central
+81,Enterprise,South
+82,Mid-Market,South
+83,Mid-Market,East
+84,Small Business,Central
+85,Small Business,North
+86,Mid-Market,North
+87,Enterprise,Central
+88,Enterprise,Central
+89,Small Business,North
+90,Enterprise,North
+91,Small Business,North
+92,Small Business,South
+93,Small Business,Central
+94,Mid-Market,East
+95,Small Business,Central
+96,Enterprise,East
+97,Small Business,East
+98,Mid-Market,Central
+99,Small Business,North
+100,Enterprise,East
+101,Mid-Market,East
+102,Mid-Market,East
+103,Enterprise,North
+104,Enterprise,North
+105,Small Business,East
+106,Enterprise,South
+107,Small Business,Central
+108,Small Business,Central
+109,Enterprise,East
+110,Small Business,East
+111,Small Business,South
+112,Mid-Market,Central
+113,Small Business,East
+114,Enterprise,North
+115,Small Business,North
+116,Small Business,Central
+117,Small Business,East
+118,Mid-Market,East
+119,Small Business,East
+120,Small Business,Central
+121,Mid-Market,North
+122,Mid-Market,South
+123,Mid-Market,South
+124,Mid-Market,East
+125,Small Business,Central
+126,Mid-Market,Central
+127,Small Business,North
+128,Enterprise,South
+129,Small Business,North
+130,Enterprise,East
+131,Enterprise,Central
+132,Small Business,North
+133,Small Business,North
+134,Enterprise,North
+135,Enterprise,Central
+136,Mid-Market,North
+137,Enterprise,Central
+138,Enterprise,North
+139,Enterprise,North
+140,Mid-Market,South
+141,Mid-Market,Central
+142,Enterprise,South
+143,Small Business,South
+144,Mid-Market,Central
+145,Enterprise,South
+146,Mid-Market,South
+147,Small Business,North
+148,Mid-Market,North
+149,Small Business,Central
+150,Enterprise,South
+151,Small Business,South
+152,Small Business,Central
+153,Mid-Market,South
+154,Small Business,East
+155,Enterprise,South
+156,Enterprise,North
+157,Enterprise,South
+158,Enterprise,North
+159,Small Business,South
+160,Small Business,North
+161,Enterprise,Central
+162,Mid-Market,South
+163,Enterprise,Central
+164,Enterprise,South
+165,Small Business,South
+166,Enterprise,East
+167,Mid-Market,North
+168,Small Business,East
+169,Mid-Market,North
+170,Small Business,South
+171,Small Business,South
+172,Small Business,East
+173,Enterprise,East
+174,Enterprise,North
+175,Small Business,North
+176,Enterprise,Central
+177,Enterprise,North
+178,Mid-Market,Central
+179,Mid-Market,Central
+180,Small Business,South
+181,Mid-Market,North
+182,Mid-Market,Central
+183,Enterprise,Central
+184,Enterprise,North
+185,Mid-Market,East
+186,Enterprise,Central
+187,Small Business,Central
+188,Small Business,East
+189,Small Business,Central
+190,Enterprise,South
+191,Mid-Market,Central
+192,Mid-Market,Central
+193,Enterprise,North
+194,Mid-Market,North
+195,Mid-Market,Central
+196,Small Business,East
+197,Mid-Market,South
+198,Small Business,Central
+199,Small Business,Central
+200,Mid-Market,South
+201,Mid-Market,North
+202,Mid-Market,South
+203,Enterprise,East
+204,Enterprise,South
+205,Small Business,North
+206,Mid-Market,Central
+207,Enterprise,South
+208,Small Business,North
+209,Enterprise,East
+210,Mid-Market,South
+211,Mid-Market,North
+212,Mid-Market,Central
+213,Mid-Market,North
+214,Enterprise,East
+215,Small Business,Central
+216,Mid-Market,East
+217,Small Business,South
+218,Enterprise,South
+219,Enterprise,North
+220,Enterprise,South
+221,Enterprise,South
+222,Enterprise,East
+223,Mid-Market,East
+224,Enterprise,South
+225,Enterprise,Central
+226,Small Business,East
+227,Enterprise,East
+228,Enterprise,Central
+229,Enterprise,South
+230,Mid-Market,North
+231,Mid-Market,South
+232,Small Business,East
+233,Enterprise,South
+234,Mid-Market,East
+235,Mid-Market,Central
+236,Enterprise,East
+237,Enterprise,Central
+238,Enterprise,North
+239,Mid-Market,South
+240,Small Business,Central

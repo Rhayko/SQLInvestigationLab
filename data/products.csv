@@ -1,0 +1,17 @@
+product_id,product_name,category,unit_price,unit_cost
+1,Safety Product 01,Safety,45,24.53
+2,Safety Product 02,Safety,62,26.94
+3,Safety Product 03,Safety,79,37.88
+4,Safety Product 04,Safety,28,13.16
+5,Mobility Product 05,Mobility,51,28.69
+6,Mobility Product 06,Mobility,68,37.52
+7,Mobility Product 07,Mobility,85,50.2
+8,Mobility Product 08,Mobility,34,15.15
+9,Recovery Product 09,Recovery,57,28.84
+10,Recovery Product 10,Recovery,74,32.22
+11,Recovery Product 11,Recovery,91,42.71
+12,Recovery Product 12,Recovery,40,20.84
+13,Training Product 13,Training,63,27.39
+14,Training Product 14,Training,80,37.26
+15,Training Product 15,Training,97,53.06
+16,Training Product 16,Training,46,24.29

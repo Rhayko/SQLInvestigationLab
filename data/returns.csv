@@ -1,0 +1,285 @@
+return_id,order_item_id,return_date,quantity_returned,reason
+1,15,2024-01-27,4,Wrong item
+2,60,2024-01-23,3,Wrong item
+3,139,2024-01-19,3,Not as expected
+4,175,2024-01-24,2,Damaged
+5,216,2024-01-27,2,Wrong item
+6,280,2024-01-27,3,Damaged
+7,335,2024-01-24,1,Not as expected
+8,345,2024-02-12,1,Wrong item
+9,417,2024-02-19,1,Not as expected
+10,422,2024-02-26,1,Not as expected
+11,436,2024-02-10,1,Damaged
+12,476,2024-03-08,2,Not as expected
+13,489,2024-02-11,1,Not as expected
+14,490,2024-02-23,3,Damaged
+15,504,2024-02-25,1,Damaged
+16,531,2024-02-20,2,Not as expected
+17,540,2024-03-03,1,Wrong item
+18,619,2024-03-02,1,Wrong item
+19,625,2024-02-24,1,Wrong item
+20,698,2024-03-20,3,Wrong item
+21,710,2024-04-01,3,Damaged
+22,734,2024-03-26,2,Wrong item
+23,783,2024-03-10,4,Wrong item
+24,787,2024-03-27,3,Wrong item
+25,800,2024-03-28,4,Damaged
+26,811,2024-03-15,3,Wrong item
+27,840,2024-04-07,1,Not as expected
+28,879,2024-03-23,4,Wrong item
+29,915,2024-03-27,2,Not as expected
+30,917,2024-03-30,3,Damaged
+31,953,2024-03-21,5,Not as expected
+32,994,2024-04-10,1,Wrong item
+33,1118,2024-05-03,3,Damaged
+34,1173,2024-05-11,3,Not as expected
+35,1188,2024-04-22,2,Not as expected
+36,1198,2024-04-26,3,Not as expected
+37,1215,2024-05-12,3,Wrong item
+38,1238,2024-05-07,4,Wrong item
+39,1244,2024-04-16,2,Wrong item
+40,1245,2024-04-25,2,Damaged
+41,1277,2024-04-13,3,Wrong item
+42,1320,2024-04-21,1,Not as expected
+43,1332,2024-04-26,2,Not as expected
+44,1413,2024-05-13,1,Not as expected
+45,1440,2024-05-11,1,Damaged
+46,1467,2024-05-28,2,Damaged
+47,1478,2024-05-10,4,Not as expected
+48,1483,2024-05-15,2,Wrong item
+49,1494,2024-06-11,3,Damaged
+50,1512,2024-05-30,1,Damaged
+51,1537,2024-06-11,2,Damaged
+52,1640,2024-05-09,1,Wrong item
+53,1657,2024-05-22,2,Wrong item
+54,1662,2024-05-16,2,Damaged
+55,1711,2024-05-31,1,Not as expected
+56,1715,2024-06-25,3,Damaged
+57,1726,2024-06-22,1,Not as expected
+58,1841,2024-06-30,1,Damaged
+59,1842,2024-07-13,1,Not as expected
+60,1850,2024-07-04,1,Wrong item
+61,1851,2024-06-20,3,Wrong item
+62,1857,2024-07-01,1,Damaged
+63,1865,2024-06-30,1,Not as expected
+64,1874,2024-07-09,2,Damaged
+65,1880,2024-06-27,1,Wrong item
+66,1965,2024-06-10,1,Wrong item
+67,1986,2024-06-16,2,Wrong item
+68,1988,2024-06-30,1,Damaged
+69,2020,2024-07-06,1,Damaged
+70,2033,2024-06-30,4,Not as expected
+71,2036,2024-06-30,1,Damaged
+72,2099,2024-07-13,1,Not as expected
+73,2105,2024-08-08,1,Damaged
+74,2112,2024-08-06,2,Wrong item
+75,2180,2024-07-23,2,Wrong item
+76,2181,2024-07-30,2,Not as expected
+77,2200,2024-07-24,1,Damaged
+78,2256,2024-07-27,2,Damaged
+79,2278,2024-08-09,1,Not as expected
+80,2287,2024-07-18,2,Wrong item
+81,2317,2024-07-17,5,Damaged
+82,2424,2024-07-17,1,Wrong item
+83,2515,2024-08-31,1,Damaged
+84,2525,2024-08-25,5,Wrong item
+85,2537,2024-09-01,4,Damaged
+86,2574,2024-09-06,1,Not as expected
+87,2602,2024-08-27,1,Damaged
+88,2625,2024-08-18,1,Wrong item
+89,2655,2024-08-30,3,Wrong item
+90,2669,2024-08-24,1,Damaged
+91,2671,2024-08-13,2,Not as expected
+92,2711,2024-08-21,2,Damaged
+93,2757,2024-09-12,1,Damaged
+94,2763,2024-08-09,1,Wrong item
+95,2768,2024-09-06,1,Wrong item
+96,2792,2024-10-03,2,Not as expected
+97,2821,2024-09-19,2,Damaged
+98,2866,2024-09-24,4,Wrong item
+99,2889,2024-09-15,1,Not as expected
+100,2924,2024-10-05,3,Not as expected
+101,2925,2024-09-30,4,Wrong item
+102,2948,2024-10-09,1,Damaged
+103,2980,2024-10-04,1,Not as expected
+104,2982,2024-09-26,1,Wrong item
+105,3001,2024-09-30,1,Not as expected
+106,3060,2024-10-10,1,Damaged
+107,3086,2024-10-30,3,Damaged
+108,3112,2024-10-27,2,Not as expected
+109,3118,2024-11-12,4,Wrong item
+110,3238,2024-10-22,3,Not as expected
+111,3275,2024-10-07,3,Not as expected
+112,3348,2024-10-09,1,Not as expected
+113,3373,2024-10-29,1,Not as expected
+114,3386,2024-11-09,2,Damaged
+115,3421,2024-10-19,1,Damaged
+116,3442,2024-11-24,2,Wrong item
+117,3445,2024-12-14,1,Damaged
+118,3451,2024-11-20,4,Not as expected
+119,3452,2024-11-29,1,Damaged
+120,3465,2024-11-29,1,Wrong item
+121,3490,2024-12-06,5,Damaged
+122,3533,2024-11-07,1,Wrong item
+123,3538,2024-12-06,1,Not as expected
+124,3581,2024-11-21,1,Wrong item
+125,3596,2024-11-07,3,Wrong item
+126,3618,2024-11-23,1,Damaged
+127,3620,2024-12-11,2,Damaged
+128,3625,2024-12-18,1,Damaged
+129,3628,2024-11-15,1,Not as expected
+130,3647,2024-11-29,1,Wrong item
+131,3711,2024-11-18,3,Not as expected
+132,3732,2024-11-24,1,Wrong item
+133,3749,2024-11-13,1,Wrong item
+134,3754,2024-11-09,1,Not as expected
+135,3776,2024-11-12,1,Not as expected
+136,3787,2024-11-17,2,Wrong item
+137,3818,2024-12-12,3,Damaged
+138,3825,2024-12-31,2,Not as expected
+139,3831,2024-12-08,2,Damaged
+140,3840,2025-01-01,1,Wrong item
+141,3841,2025-01-14,2,Not as expected
+142,3851,2024-12-15,1,Damaged
+143,3882,2024-12-25,1,Wrong item
+144,3887,2025-01-10,3,Not as expected
+145,3926,2024-12-10,2,Damaged
+146,3955,2025-01-01,2,Not as expected
+147,3961,2025-01-09,5,Damaged
+148,3967,2024-12-28,3,Damaged
+149,3968,2024-12-25,4,Not as expected
+150,3995,2024-12-30,2,Not as expected
+151,3998,2024-12-28,2,Damaged
+152,4006,2024-12-27,4,Wrong item
+153,4010,2024-12-30,1,Wrong item
+154,4027,2024-12-28,1,Wrong item
+155,4033,2025-01-05,3,Not as expected
+156,4058,2025-01-02,1,Damaged
+157,4060,2024-12-25,1,Wrong item
+158,4074,2024-12-09,1,Wrong item
+159,4089,2024-12-12,3,Not as expected
+160,4095,2024-12-20,3,Not as expected
+161,4099,2024-12-14,1,Damaged
+162,4113,2024-12-28,2,Damaged
+163,4142,2025-01-30,3,Wrong item
+164,4149,2025-02-07,4,Wrong item
+165,4205,2025-02-01,1,Damaged
+166,4210,2025-01-26,2,Damaged
+167,4233,2025-02-05,1,Damaged
+168,4239,2025-01-07,4,Damaged
+169,4242,2025-01-11,3,Not as expected
+170,4257,2025-01-30,1,Not as expected
+171,4269,2025-02-06,1,Wrong item
+172,4276,2025-01-28,1,Not as expected
+173,4278,2025-01-25,2,Not as expected
+174,4299,2025-02-07,1,Damaged
+175,4303,2025-01-12,3,Not as expected
+176,4310,2025-01-15,1,Not as expected
+177,4334,2025-01-09,1,Not as expected
+178,4351,2025-02-09,4,Damaged
+179,4361,2025-01-22,2,Wrong item
+180,4368,2025-01-31,3,Damaged
+181,4385,2025-02-13,2,Wrong item
+182,4411,2025-02-10,1,Damaged
+183,4436,2025-01-07,2,Not as expected
+184,4445,2025-01-17,1,Damaged
+185,4467,2025-03-03,2,Not as expected
+186,4472,2025-02-23,5,Not as expected
+187,4480,2025-03-14,1,Damaged
+188,4488,2025-02-13,3,Damaged
+189,4492,2025-03-10,4,Damaged
+190,4499,2025-03-13,3,Not as expected
+191,4526,2025-02-27,1,Wrong item
+192,4527,2025-02-20,4,Wrong item
+193,4530,2025-03-05,3,Wrong item
+194,4548,2025-03-09,2,Wrong item
+195,4553,2025-03-06,2,Not as expected
+196,4586,2025-02-24,2,Not as expected
+197,4613,2025-03-10,2,Damaged
+198,4623,2025-02-27,1,Not as expected
+199,4711,2025-02-21,1,Not as expected
+200,4717,2025-02-22,3,Not as expected
+201,4743,2025-02-20,4,Wrong item
+202,4744,2025-03-05,2,Damaged
+203,4805,2025-03-31,5,Not as expected
+204,4890,2025-04-02,1,Not as expected
+205,4894,2025-03-17,3,Damaged
+206,4909,2025-03-30,3,Wrong item
+207,4921,2025-03-31,4,Not as expected
+208,4938,2025-04-02,1,Damaged
+209,4946,2025-03-17,1,Damaged
+210,4951,2025-04-10,3,Wrong item
+211,4963,2025-04-10,1,Wrong item
+212,4992,2025-03-19,2,Wrong item
+213,5006,2025-03-19,2,Damaged
+214,5023,2025-03-31,1,Wrong item
+215,5050,2025-03-24,2,Not as expected
+216,5060,2025-03-30,1,Not as expected
+217,5074,2025-03-14,1,Not as expected
+218,5123,2025-04-04,3,Not as expected
+219,5127,2025-03-16,1,Wrong item
+220,5129,2025-04-08,1,Damaged
+221,5135,2025-04-09,1,Damaged
+222,5140,2025-04-24,2,Damaged
+223,5148,2025-04-14,3,Wrong item
+224,5152,2025-04-08,2,Wrong item
+225,5159,2025-04-10,1,Not as expected
+226,5172,2025-04-17,2,Wrong item
+227,5176,2025-05-05,1,Not as expected
+228,5197,2025-05-09,3,Not as expected
+229,5246,2025-05-09,2,Wrong item
+230,5267,2025-04-27,4,Wrong item
+231,5271,2025-05-08,1,Not as expected
+232,5275,2025-05-04,1,Not as expected
+233,5276,2025-05-06,4,Wrong item
+234,5292,2025-04-21,1,Wrong item
+235,5296,2025-05-02,1,Not as expected
+236,5334,2025-04-26,1,Wrong item
+237,5355,2025-05-01,2,Damaged
+238,5376,2025-04-27,1,Damaged
+239,5387,2025-04-17,1,Damaged
+240,5412,2025-04-20,1,Wrong item
+241,5418,2025-04-27,2,Damaged
+242,5421,2025-05-09,3,Not as expected
+243,5442,2025-04-20,1,Damaged
+244,5457,2025-05-10,2,Not as expected
+245,5485,2025-06-13,3,Wrong item
+246,5499,2025-05-28,4,Not as expected
+247,5501,2025-05-14,2,Not as expected
+248,5515,2025-05-23,3,Damaged
+249,5528,2025-05-25,1,Wrong item
+250,5530,2025-06-04,2,Wrong item
+251,5552,2025-05-21,4,Damaged
+252,5563,2025-05-19,3,Not as expected
+253,5581,2025-05-20,2,Damaged
+254,5603,2025-06-04,1,Wrong item
+255,5611,2025-06-06,2,Damaged
+256,5615,2025-05-26,2,Wrong item
+257,5626,2025-05-26,1,Wrong item
+258,5648,2025-06-10,1,Not as expected
+259,5654,2025-05-13,1,Wrong item
+260,5664,2025-05-30,2,Not as expected
+261,5676,2025-06-01,1,Not as expected
+262,5691,2025-05-26,4,Damaged
+263,5729,2025-05-27,1,Damaged
+264,5735,2025-05-28,1,Wrong item
+265,5752,2025-05-24,1,Not as expected
+266,5755,2025-05-13,1,Not as expected
+267,5777,2025-05-17,2,Not as expected
+268,5787,2025-06-09,3,Wrong item
+269,5820,2025-06-26,4,Wrong item
+270,5849,2025-07-03,3,Damaged
+271,5861,2025-06-22,1,Not as expected
+272,5867,2025-06-30,2,Not as expected
+273,5868,2025-06-28,1,Damaged
+274,5880,2025-06-09,1,Wrong item
+275,5933,2025-06-08,1,Wrong item
+276,5940,2025-07-03,4,Not as expected
+277,5974,2025-06-23,1,Damaged
+278,6025,2025-06-21,1,Damaged
+279,6043,2025-06-07,4,Wrong item
+280,6049,2025-07-05,1,Damaged
+281,6054,2025-06-26,2,Not as expected
+282,6073,2025-06-25,1,Wrong item
+283,6130,2025-06-17,4,Wrong item
+284,6131,2025-06-25,4,Damaged
